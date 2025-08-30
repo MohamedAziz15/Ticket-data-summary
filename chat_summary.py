@@ -19,8 +19,7 @@ def prepare_ticket_narrative(tickets_df):
 
 
 def summarize_category(product_name, tickets_text):
-    # from openai import OpenAI
-    # client = OpenAI()
+
 
     prompt = f"""
     You are a summarization assistant. Summarize the following ticket records into a storytelling summary
@@ -59,7 +58,7 @@ def summarize_category(product_name, tickets_text):
     """
     client = Groq()  # or read from env
     response = client.chat.completions.create(
-        model="llama3-8b-8192",  # or "llama-3-8b-8192" if you want faster
+        model="llama3-8b-8192",  # "llama-3-8b-8192" if you want faster
         messages=[{"role": "user", "content": prompt}]
     )
 
@@ -70,10 +69,6 @@ def summarize_category(product_name, tickets_text):
 def main():
     df = pd.read_csv("tickets_cleaned2.csv")
     grouped = df.groupby("PRODUCT_CATEGORY")
-    # grouped_df = df.groupby('PRODUCT_CATEGORY').sum() # Apply an aggregation
-    # grouped_df.to_csv("groups_Category.csv", index=False)
-    # # Summarize the tickets
-    # #summarize_tickets(grouped_df)
     summaries = {}
 
     for product, tickets in grouped:
@@ -82,7 +77,7 @@ def main():
         summaries[product] = summary
 
     # Save all summaries into a file
-    with open("ticket_storytelling_summaries.txt", "w", encoding="utf-8") as f:
+    with open("output/ticket_storytelling_summaries.txt", "w", encoding="utf-8") as f:
         for product, summary in summaries.items():
             f.write(f"===== {product} =====\n{summary}\n\n")
 

@@ -28,12 +28,13 @@ def preprocess_tickets(file_path: str = "Ticket_Data.txt"):
     filtered_df['PRODUCT_CATEGORY'] = filtered_df['SERVICE_CATEGORY'].map(category_product_map)
 
     # Step 6: Save cleaned and mapped data
-    filtered_df.to_csv("tickets_cleaned2.csv", index=False)
-    filtered_df.to_excel("tickets_cleaned.xlsx", index=False)
+    filtered_df.to_csv("output/tickets_cleaned2.csv", index=False)
+    filtered_df.to_excel("output/tickets_cleaned.xlsx", index=False)
 
     print("✅ Tickets cleaned and mapped successfully!")
 
     return filtered_df
 
-
+if __name__ == "__main__":
+    preprocess_tickets("Ticket_Data.txt")
 
