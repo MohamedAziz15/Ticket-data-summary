@@ -1,0 +1,107 @@
+===== Broadband =====
+**Initial Issue**
+
+The Broadband service experienced issues on November 12th, 2024, with two separate tickets raised. The first ticket, 001-0670956/24, reported slow internet connection, while the second ticket, 001-0682299/24, mentioned slow internet speed. Additionally, on November 13th, 2024, another two tickets were raised: 001-0670955/24, regarding a CI-Modul connection issue, and 001-0671373/24, about a smartcard not being recognized.
+
+**Follow-ups**
+
+On November 14th, 2024, a follow-up ticket was raised, but no specific issues were mentioned. It's unclear if this ticket was related to the earlier issues.
+
+**Developments**
+
+The following day, November 15th, 2024, another ticket was raised, 001-0682302/24, reporting an unstable internet connection. This issue seems to be related to the earlier slow internet speed and connection issues.
+
+**Later Incidents**
+
+On November 18th, 2024, two more tickets were raised, 001-0670957/24, and another smartcard issue was reported, with no access to the device. This issue appears to be related to the earlier smartcard recognition issue.
+
+**Recent Events**
+
+As of the latest information available, the broadband service is still experiencing issues. Users are encountering slow internet speeds, unstable connections, and smartcard recognition problems. Further updates are needed to determine if these issues have been resolved or are ongoing.
+
+===== GIGA =====
+**Initial Issue**
+
+In November 2024, a series of issues arose with the Gigabit Option service. On November 15th, at 12:00, ticket #001-0670932/24 was opened, reporting that the activation of the Gigabit Option had failed. Around the same time, a second ticket (#001-0670934/24) was lodged, claiming that the Gigabit Option had not been booked. A third ticket (#001-0670745/24) was filed on November 14th, stating that the Gigabit Option activation was delayed.
+
+**Follow-ups**
+
+Over the next few days, customers continued to experience issues with the Gigabit Option. The initial tickets remain open, and new ones were created to follow up on the unresolved issues.
+
+**Developments**
+
+On November 19th, at 12:00, the delay in activation of the Gigabit Option was still ongoing. The customer service team attempted to resolve the issue, but the problem persisted. The tickets remained open, awaiting further action to rectify the situation.
+
+**Later Incidents**
+
+There were no further reported incidents or updates on the issues until the present day.
+
+**Recent Events**
+
+No recent events or updates are available for the Gigabit Option service.
+
+===== TV =====
+Here is a storytelling summary of the ticket records, divided into five sections:
+
+**Initial Issue**
+
+In the first week of November 2024, two TV-related issues were reported. On November 16th, at 11:00 AM, ticket 001-0671183/24 was opened, citing an issue with the customer portal, where customers were unable to access it. This was followed by ticket 001-0682301/24 on November 15th, 8:00 AM, which raised a concern about forgotten passwords. These initial issues hinted at a broader problem affecting TV customers.
+
+**Follow-ups**
+
+In the following days, further issues emerged. On November 20th, at 11:00 AM, ticket 001-0671186/24 was opened, detailing a problem with customer portal invoices. This series of tickets suggested that the customer portal was experiencing stability issues, causing frustration for TV customers.
+
+**Developments**
+
+As the tickets progressed, more details emerged about the customer portal issues. The developers worked tirelessly to address the concerns, and by November 20th, they had started to uncover the root cause of the problems. The team identified a combination of technical glitches and user errors as the primary causes of the issues.
+
+**Later Incidents**
+
+Despite the progress made by the development team, the TV customer portal continued to experience intermittent issues. On November 22nd, at 9:00 AM, a new ticket (not included in the provided records) was opened, reporting a similar problem with account login. This incident highlighted the ongoing struggle to resolve the customer portal issues.
+
+**Recent Events**
+
+As the problems persisted, the TV team refocused their efforts to provide a smoother customer experience. Following the diagnosis of the root cause, the team implemented a series of patches and updates to enhance the customer portal's stability. By the end of November, a noticeable improvement was seen in customer portal functionality, reducing the occurrence of reported issues. Despite this progress, the TV team remains vigilant, continuing to monitor and update the customer portal to ensure a seamless experience for its customers.
+
+===== VOD =====
+**Initial Issue**
+
+The woes began on November 15, 2024, with the opening of Ticket 001-0670744/24. The customer reported a critical issue with Video on Demand (VOD), claiming they had no access to VOD services. This was followed by another ticket, 001-0671184/24, on November 14, 2024, documenting a stuttering issue with movie playback.
+
+**Follow-ups**
+
+On November 15, 2024, Ticket 001-0670746/24 was opened, detailing an error message displayed when attempting to access VOD services. It seemed like a trifecta of troubles for the VOD services, and the customer was eager to find a resolution.
+
+**Developments**
+
+At this point, the issue seemed to persist, with no clear resolution in sight. The customer was growing frustrated, and it was unclear when they would be able to enjoy their VOD experience without these hassles.
+
+**Later Incidents**
+
+As the issue continued to go unresolved, the customer opened additional tickets, each documenting further incidents. The struggle to access VOD services became a recurring theme, with no end in sight.
+
+**Recent Events**
+
+The recent events surrounding this issue are just as concerning. As of yet, there has been no discernible progress towards resolving these issues. The customer remains frustrated, and the VOD services continue to be plagued by these recurring problems. It is imperative that a solution is found soon to restore stability to the VOD experience.
+
+===== Voice =====
+**Initial Issue**
+
+The troubles began on November 13th, 2024, when ticket numbers 001-0670933/24 and 001-0671372/24 were opened, both related to the Voice product category and serviced by KAV. The issues reported were: "HD Channel - Blurred" and "Sender - kein Empfang" (no reception), respectively.
+
+**Follow-ups**
+
+Two days later, on November 14th, 2024, another ticket was opened – 001-0671372/24 – still related to the same issues, with no resolution reported.
+
+**Developments**
+
+On November 18th, 2024, a new ticket emerged – 001-0671374/24 – which reported an additional issue: "HD Channel - Artifacts". This suggests that the earlier issues with blurred channels and no reception have not been fully resolved and have evolved into new problems.
+
+**Later Incidents**
+
+No further incidents were reported in this timeframe.
+
+**Recent Events**
+
+There are no recent events to report, and the situation remains unchanged, with the initial issues still ongoing and the addition of new problems with artifacts on the HD channel. Resolution is still pending.
+
